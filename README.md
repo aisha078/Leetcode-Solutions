@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aisha078/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/aisha078/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -37,9 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aisha078/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/aisha078/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aisha078/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/aisha078/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
