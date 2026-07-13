@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aisha078/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/aisha078/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0064-minimum-path-sum](https://github.com/aisha078/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/aisha078/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aisha078/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/aisha078/Leetcode-Solutions/tree/master/1291-sequential-digits) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/aisha078/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
