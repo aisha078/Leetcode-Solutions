@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aisha078/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/aisha078/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/aisha078/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/aisha078/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/aisha078/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
