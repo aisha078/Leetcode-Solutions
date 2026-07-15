@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/aisha078/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aisha078/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/aisha078/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/aisha078/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0322-coin-change](https://github.com/aisha078/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aisha078/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aisha078/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aisha078/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/aisha078/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aisha078/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/aisha078/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aisha078/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/aisha078/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/aisha078/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
