@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aisha078/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/aisha078/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aisha078/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/aisha078/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/aisha078/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aisha078/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/aisha078/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aisha078/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/aisha078/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aisha078/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
