@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aisha078/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/aisha078/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/aisha078/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0322-coin-change](https://github.com/aisha078/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/aisha078/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aisha078/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/aisha078/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0136-single-number) |
 ## Sliding Window
 |  |
 | ------- |
