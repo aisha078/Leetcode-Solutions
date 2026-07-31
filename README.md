@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/aisha078/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/aisha078/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aisha078/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [1331-rank-transform-of-an-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aisha078/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/aisha078/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
@@ -507,4 +509,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/aisha078/Leetcode-Solutions/tree/master/0133-clone-graph) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aisha078/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aisha078/Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
