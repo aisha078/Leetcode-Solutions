@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0322-coin-change](https://github.com/aisha078/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/aisha078/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [1331-rank-transform-of-an-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/aisha078/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/aisha078/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aisha078/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/aisha078/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aisha078/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/aisha078/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aisha078/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/aisha078/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -533,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aisha078/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
