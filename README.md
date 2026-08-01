@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/aisha078/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aisha078/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/aisha078/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/aisha078/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/aisha078/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/aisha078/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/aisha078/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/aisha078/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/aisha078/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aisha078/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
