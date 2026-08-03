@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/aisha078/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aisha078/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aisha078/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/aisha078/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0513-find-bottom-left-tree-value](https://github.com/aisha078/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/aisha078/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aisha078/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aisha078/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/aisha078/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0513-find-bottom-left-tree-value](https://github.com/aisha078/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Search Tree
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aisha078/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aisha078/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0173-binary-search-tree-iterator](https://github.com/aisha078/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aisha078/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aisha078/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aisha078/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/aisha078/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/aisha078/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aisha078/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/aisha078/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -565,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/aisha078/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
