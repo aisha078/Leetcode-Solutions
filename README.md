@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aisha078/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3731-find-missing-elements](https://github.com/aisha078/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aisha078/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aisha078/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/aisha078/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aisha078/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/aisha078/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/aisha078/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aisha078/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
