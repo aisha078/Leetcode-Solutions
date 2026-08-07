@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/aisha078/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/aisha078/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/aisha078/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/aisha078/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/aisha078/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aisha078/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/aisha078/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/aisha078/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aisha078/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aisha078/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/aisha078/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/aisha078/Leetcode-Solutions/tree/master/0221-maximal-square) |
 ## Number Theory
 |  |
 | ------- |
