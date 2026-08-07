@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/aisha078/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aisha078/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aisha078/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aisha078/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aisha078/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aisha078/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/aisha078/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/aisha078/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/aisha078/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aisha078/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aisha078/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aisha078/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
