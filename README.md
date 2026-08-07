@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aisha078/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/aisha078/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/aisha078/Leetcode-Solutions/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aisha078/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aisha078/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aisha078/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0227-basic-calculator-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/aisha078/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aisha078/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aisha078/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/aisha078/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0227-basic-calculator-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
