@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aisha078/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aisha078/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aisha078/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aisha078/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aisha078/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aisha078/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aisha078/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1140-stone-game-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Union-Find
 |  |
@@ -622,14 +626,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aisha078/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 ## Iterator
 |  |
