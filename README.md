@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aisha078/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aisha078/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/aisha078/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/aisha078/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aisha078/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/aisha078/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/aisha078/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/aisha078/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
