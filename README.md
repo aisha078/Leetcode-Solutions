@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aisha078/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aisha078/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aisha078/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aisha078/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aisha078/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aisha078/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/aisha078/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aisha078/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aisha078/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aisha078/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aisha078/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aisha078/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aisha078/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aisha078/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aisha078/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aisha078/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/aisha078/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/aisha078/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aisha078/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aisha078/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
@@ -624,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aisha078/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aisha078/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aisha078/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
