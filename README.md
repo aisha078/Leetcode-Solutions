@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aisha078/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aisha078/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/aisha078/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aisha078/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/aisha078/Leetcode-Solutions/tree/master/0223-rectangle-area) |
+| [0836-rectangle-overlap](https://github.com/aisha078/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 ## Segment Tree
 |  |
 | ------- |
