@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/aisha078/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/aisha078/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/aisha078/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/aisha078/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/aisha078/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aisha078/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aisha078/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aisha078/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/aisha078/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/aisha078/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0835-image-overlap](https://github.com/aisha078/Leetcode-Solutions/tree/master/0835-image-overlap) |
 ## Number Theory
 |  |
 | ------- |
